@@ -37,10 +37,6 @@ Apex Clinic combines professional aesthetics with user-friendly functionality to
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of the homepage and key sections.
-
 Example:
 
 ```
@@ -55,7 +51,7 @@ preview/
 
 ## 🌐 Live Demo
 
-🔗 https://your-clinic-demo.vercel.app
+🔗 https://apex-care-showcase.vercel.app/
 
 ---
 
